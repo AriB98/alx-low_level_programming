@@ -1,1 +1,1 @@
-Repository for ALX C programming tasks.
+C debugging tasks
